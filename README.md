@@ -1,8 +1,8 @@
 ### Oi! Guilherme aqui!
 
-* 📱 Foco no Desenvolvimento Mobile atualmente
+* 📱 Foco no Desenvolvimento Web atualmente
 * 🎓Cursando Ciência da Computação 
-* 💻 Estudando Java
+* 💻 Estudando JavaScript
 
 <a href="https://github.com/guinafelix/github-readme-stats">
   <img align="center" height="172em" src="https://github-readme-stats.vercel.app/api?username=guinafelix&count_private=true&show_icons=true&theme=merko&custom_title=Guilherme%27s%20GitHub%20Stats" />
