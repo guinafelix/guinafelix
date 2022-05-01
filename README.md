@@ -1,6 +1,4 @@
 ### Oi! Guilherme aqui!
-
-* 📱 Foco no Desenvolvimento Web atualmente
 * 🎓Cursando Ciência da Computação 
 * 💻 Estudando JavaScript
 
