@@ -1,4 +1,4 @@
-### Oi! Guilherme aqui!
+### Olá!
 * 🎓Cursando Ciência da Computação 
 * 💻 Estudando JavaScript
 
