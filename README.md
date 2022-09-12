@@ -1,5 +1,6 @@
 ### Olá!
 * 🎓Cursando Ciência da Computação 
+* contato: oguilhermeleitefelix@gmail.com
 
 <div align="center">
   <a href="https://github.com/guinafelix">
