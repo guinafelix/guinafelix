@@ -1,6 +1,6 @@
 ### Olá!
 * 🎓Cursando Ciência da Computação 
-* contato: guinafelixdev@gmail.com
+* contato:
 
 <div align="center">
   <a href="https://github.com/guinafelix">
