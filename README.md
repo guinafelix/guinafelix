@@ -4,8 +4,8 @@
 
 <div align="center">
   <a href="https://github.com/guinafelix">
-<!--   <img height="180em" src="https://github-readme-stats-two-flame-35.vercel.app/api?username=guinafelix&show_icons=true&theme=dracula&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats-two-flame-35.vercel.app/api/top-langs/?username=guinafelix&layout=compact&langs_count=7&theme=dracula"/> -->
+  <img height="180em" src="https://github-readme-stats-pga6air33-guinafelix.vercel.app/api?username=guinafelix&show_icons=true&theme=dracula&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats-pga6air33-guinafelix.vercel.app/api/top-langs/?username=guinafelix&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Guina-Java" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" >
