@@ -1,5 +1,6 @@
 ### Olá!
-* 🎓Cursando Ciência da Computação 
+* 🎓Cursando Ciência da Computação
+* 
 
 <div align="center">
   <a href="https://github.com/guinafelix">
@@ -14,6 +15,9 @@
   <img align="center" alt="Guina-nodejs" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="Guina-docker" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
   <img align="center" alt="Guina-python" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align="center" alt="Guina-angular" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+  <img align="center" alt="Guina-spring" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+  <img align="center" alt="Guina-flask" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" />
 </div>
   
 ![Snake animation](https://github.com/guinafelix/guinafelix/blob/output/github-contribution-grid-snake.svg)
