@@ -1,6 +1,5 @@
 ### Olá!
 * 🎓Cursando Ciência da Computação
-* 
 
 <div align="center">
   <a href="https://github.com/guinafelix">
