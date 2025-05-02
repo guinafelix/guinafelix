@@ -1,5 +1,5 @@
-### Olá!
-* 🎓Cursando Ciência da Computação
+### Hi!
+* Im a software engineer graduated in Computer Science with more than 3 years of experience in web development. I'm focused in scalable and acessible applications and a docker entusiast.
 
 <!--<div align="center">
   <a href="https://github.com/guinafelix">
